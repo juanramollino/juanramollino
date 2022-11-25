@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanramollino
-- 👀 I’m interested in making cool technical careers for Software Developers
-- 🌱 I’m currently learning GitHub and refreshing my previous knowledge of pipelines in this modern world.
+- 👀 I like making technical work and careers not suck
+- 🌱 I’m obviously playing around with GitHub and found this README trick really fun, but also playing around with Actions and stuff
 - 💞️ I’m looking to collaborate on anything, really.
 
 [![Juan's github stats](https://github-readme-stats.vercel.app/api?username=juanramollino&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
